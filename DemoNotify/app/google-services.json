@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "285559581024",
+    "firebase_url": "https://demonotify-c4abd.firebaseio.com",
+    "project_id": "demonotify-c4abd",
+    "storage_bucket": "demonotify-c4abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285559581024:android:757be9ee6529460c",
+        "android_client_info": {
+          "package_name": "com.example.hi.demonotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285559581024-jsf5blbap3h8gsfkho4cq08rvn6uou5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALbcgAsbKejewCMk3tCP0wrLG5zK6x540"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
